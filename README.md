@@ -1,6 +1,6 @@
 VGA on FPGA
 ==============
 
-Bord
+Board
 --------------
 Digilent Nexys 4 DDR
